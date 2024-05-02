@@ -1,0 +1,23 @@
+body {
+  background-color: rgb(168, 54, 54);
+  text-align: center;
+  color: white;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+h1 {
+  margin: 30px auto;
+}
+
+p {
+  margin: 20px auto;
+}
+
+a {
+  color: #ffffff;
+}
+
+#page-link {
+  margin: 10px;
+}
